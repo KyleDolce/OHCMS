@@ -2,6 +2,6 @@
 $dbuser="root";
 $dbpass="";
 $host="localhost";
-$db="OHCMIS";
+$db="OHCMS";
 $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
 ?>
